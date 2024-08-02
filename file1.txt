@@ -1,1 +1,4 @@
 File to explore , changes, secound changes
+take user input
+make operation on input
+and get the output
